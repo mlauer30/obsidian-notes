@@ -10,13 +10,13 @@
 2. Use HR Active Employee list to verify who is using a PC.
 
 - If a PC has no login or an ambiguous login name, follow steps before making a delete decision.
-    1. Cross reference with AirTable Inventory, to see if a note was left about the last person who used the PC. 
-    2. Check with person last allocated to PC that machine is in use.
+1. Cross reference with AirTable Inventory, to see if a note was left about the last person who used the PC. 
+2. Check with person last allocated to PC that machine is in use.
 
 - Try to identify PCs with a relationship to the employee table.
-    1. In the LogMeIn Inventory, check these columns in order to attempt a PC identification:
-        a. Last Logged in User
-        b. Windows Display Name (column can be found closer to the end of each row)
-        c. PC Host Name
+1. In the LogMeIn Inventory, check these columns in order to attempt a PC identification.
+    1. Last Logged in User
+    2. Windows Display Name (column can be found closer to the end of each row)
+    3. PC Host Name
 
 
