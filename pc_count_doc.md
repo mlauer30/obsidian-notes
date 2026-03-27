@@ -13,7 +13,7 @@
 1. Cross reference with AirTable Inventory, to see if a note was left about the last person who used the PC. 
 2. Check with person last allocated to PC that machine is in use.
 
-### Try to identify PCs with a relationship to the employee table.
+### Try to get PC Count for each person, discover where every employee goes in the PC no login table.
 1. In the LogMeIn Inventory, check these columns in order to attempt a PC identification.
     1. Last Logged in User
     2. Windows Display Name (column can be found closer to the end of each row)

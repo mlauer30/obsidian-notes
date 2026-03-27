@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cd9a2c0e2aec04f0",
@@ -188,6 +189,7 @@
   "lastOpenFiles": [
     "pc_count_doc.md~",
     "4913",
+    "ERD_LogMeIn_PC_Count.excalidraw.crswap",
     "ERD_LogMeIn_PC_Count.excalidraw"
   ]
 }
