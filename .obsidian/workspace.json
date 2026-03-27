@@ -11,12 +11,14 @@
             "id": "9f8bd29a4e652d34",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ERD_LogMeIn_PC_Count.excalidraw"
+                "file": "pc_count_doc.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ERD_LogMeIn_PC_Count"
+              "icon": "lucide-file",
+              "title": "pc_count_doc"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cd9a2c0e2aec04f0",
@@ -184,5 +185,9 @@
     }
   },
   "active": "9f8bd29a4e652d34",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "pc_count_doc.md~",
+    "4913",
+    "ERD_LogMeIn_PC_Count.excalidraw"
+  ]
 }
